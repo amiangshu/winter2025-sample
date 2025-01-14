@@ -1,0 +1,6 @@
+.DS_Store
+*.class
+*.exe
+*.log
+*.msi
+uploads/*.jpg
