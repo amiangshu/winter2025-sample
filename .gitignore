@@ -3,5 +3,5 @@
 *.exe
 tmp/*.log
 *.msi
-uploads/*.jpg
+uploads/*.jpeg
 *.mp4
